@@ -1,0 +1,12 @@
+{
+  "movies": [
+    {"index":0, "name":"WHY HIM?","date":"16/01/2017", "src": "../images/6.png", "haveTrailer": true},
+    {"index":1, "name":"HIDDEN FIGURES","date":"18/01/2017", "src": "../images/4.png","haveTrailer": true},
+    {"index":2, "name":"A CURE FOR WELLNESS","date":"17/02/2017", "src": "../images/1.png","haveTrailer": true},
+    {"index":3, "name":"LOGAN", "date":"03/03/2017", "src": "../images/2.png", "haveTrailer": false},
+    {"index":4, "name":"THE BOSS BABY","date":"31/03/2017", "src": "../images/3.png", "haveTrailer": true},
+    {"index":5, "name":"SNATCHED","date":"12/05/2017", "src": "../images/5.jpg", "haveTrailer": false},
+    {"index":6, "name":"ASSASSIN'S CREED","date":"17/07/2017", "src": "../images/7.png","haveTrailer": true},
+    {"index":7, "name":"WAR FOR THE PLANET OF THE APES","date":"18/08/2017", "src": "../images/8.png","haveTrailer": true}
+  ]
+}
